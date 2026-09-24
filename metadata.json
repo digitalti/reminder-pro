@@ -1,0 +1,7 @@
+{
+  "name": "Birthday Manager",
+  "description": "Birthday tracking, countdowns, and multi-language wish generator with WhatsApp and SMS integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
